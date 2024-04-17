@@ -3,7 +3,7 @@
   
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="XLICON" height="300" src="https://i.imgur.com/bWfDDEU.jpg">
+    <img alt="XLICON" height="300" src="https://telegra.ph/file/304010415e4d67628f58a.jpg">
     <h1 align="center">XLICON-V2</h1>
   </a>
 </p>
@@ -40,7 +40,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/saeedx303/XLICON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -74,7 +74,7 @@
 
 3. Now Deploy
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V2-MD"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2saeedx303%2FXLICON-V2-MD"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ---
 
